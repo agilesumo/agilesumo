@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **agilesumo/agilesumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi Andy here 👋
+
+
+## ⚡ About Me
+* Brief introduction
+* Personal interests
+* Professional goals
+
+## ⚡ Previous Projects
+* Project 1: Description, technologies used, outcome
+* Project 2: Description, technologies used, outcome
+* Project 3: Description, technologies used, outcome
+
+## ⚡ Skills
+* Programming languages
+* Tools and technologies
+* Soft skills
+
+## ⚡ Interesting Tangents
+* Random thoughts
+* Hobbies
+* Future aspirations
+
